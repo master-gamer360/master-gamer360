@@ -1,7 +1,7 @@
 ### 👨🏻‍💻 &nbsp;About Me :
 
-🐧 &nbsp; Hello, World! I'm Programmer Penguin, A penguin who's also a programmer.\
-🎥 &nbsp; I have a [youtube channel](https://www.youtube.com/channel/UCnMoSQKpRVbL2jVzJVJFhVA) too!.\
+🐧 &nbsp; Hello, World! I'm Programmer Penguin, A penguin who's also a programmer.
+🎥 &nbsp; I have a [youtube channel](https://www.youtube.com/channel/UCnMoSQKpRVbL2jVzJVJFhVA) too!.
 
 ### 🛠 &nbsp;stuff i know
 <p align="center">
