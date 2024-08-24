@@ -1,4 +1,3 @@
-![3](https://yt3.googleusercontent.com/dB5TjcPjrI9p-2RmD891zNo_apszdAkTUfBtpZRYL16ThXUNXQzIVclr8A8o5_09vs-HG42i3Q=s900-c-k-c0x00ffffff-no-rj)
 ### 👨🏻‍💻 &nbsp;About Me :
 
 🐧 &nbsp; Hello, World! I'm Programmer Penguin, A penguin who's also a programmer.\
